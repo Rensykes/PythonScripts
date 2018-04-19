@@ -34,6 +34,7 @@ def get_barcode_info(img):
     else:
         return "Barcode Not Found!"
 
+
 cap = cv2.VideoCapture(0) #read stream video from webcam #0 (front 1)
 while(True):
   ret, frame = cap.read() #save the image from webcam in frame
