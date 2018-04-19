@@ -5,6 +5,8 @@ pip install opencv-python
 
 IN DEPTH BAR CODE READING
 https://www.pyimagesearch.com/2014/11/24/detecting-barcodes-images-python-opencv/
+TUTORIAL
+https://ludusrusso.cc/2018/01/22/opencv-barcode-reader/
 '''
 
 from pyzbar.pyzbar import decode #import decode module from zbar
