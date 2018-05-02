@@ -46,4 +46,4 @@ def demo_helloWorld(screen):
 			 return
 		screen.refresh()
 
-Screen.wrapper(demo_stars)
+Screen.wrapper(demo_helloWorld)
