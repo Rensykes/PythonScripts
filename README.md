@@ -1,7 +1,7 @@
 # PythonScripts
  
 ## Some Scripts
- **find_links :** passing an url, all links in the page will be printed<br />
+ **[find_links](https://github.com/Rensykes/PythonScripts/blob/master/Scripts/find_links.py) :** passing an url, all links in the page will be printed<br />
  **youtube_downloader:** download any video or song on youtube<br />
  **UI (folder):** cool ascii UI with asciimatics<br />
 
