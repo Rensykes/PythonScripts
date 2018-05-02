@@ -10,4 +10,4 @@
  **BarcodeReader (folder) :** read a barcode from an image -> try to retrieve it on Open Food Facts<br />
  **Recognition (folder) :** contains a script to recognize from photo and a script to recognize from webcam<br />
 Always use cascade as first parameter: <br />
-'python recog_<photo|webcam>.py <path_to_desired_cascade> <Optional: path_to_photo>'
+`python recog_<photo|webcam>.py <path_to_desired_cascade> <Optional: path_to_photo>`
