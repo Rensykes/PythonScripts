@@ -12,3 +12,4 @@
 Always use cascade as first parameter: <br />
 `python recog_<photo|webcam>.py <path_to_desired_cascade> <Optional: path_to_photo>`<br />
 Cascades can be found [here](https://github.com/Rensykes/PythonScripts/tree/master/Scripts/Recognition/classifier)
+**Hough Transform**: implementation of Hough Transform in python
